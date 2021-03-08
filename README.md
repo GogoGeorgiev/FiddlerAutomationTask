@@ -4,7 +4,7 @@ This project was created in order to test basic functionalities in Fiddler every
 
 ## The project uses the following set of artifacts and their respective versions as defined in the Maven's pom.xml:
 * TestNG version: 7.4.0. 
-* sikulixapi version: 2.0.4. 
+* sikulixapi version: 2.0.5. 
 * selenium version: 3.141.59
 * Java version: 1.8 or more
 
